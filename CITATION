@@ -1,0 +1,18 @@
+Para citar Dia-ocarina6plus em publicações use:
+
+	Fernando Pujaico Rivera.
+	Dia-ocarina6plus
+	URL https://savannah.nongnu.org/users/trucomanx
+
+Ou também pode ser usada a entrada BibTeX para usuários LaTeX:
+
+	@misc{BSLTL,
+		author    = {Pujaico Rivera, Fernando },
+		title     = {Dia-ocarina6plus},
+		year      = {2018},
+		url       = {https://savannah.nongnu.org/users/trucomanx}
+	}
+
+Nos temos investido tempo e esforço em criar Dia-ocarina6plus, por favor
+citar esta quando for usada.
+

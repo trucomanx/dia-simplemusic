@@ -1,0 +1,4 @@
+
+# Compiling deb
+
+    ./makedeb.sh

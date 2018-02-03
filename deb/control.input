@@ -1,0 +1,12 @@
+Package: @APPFILENAME@
+Priority: optional
+Section: graphics
+Maintainer: Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>
+Architecture: @APPARCH@
+Version: @APPVERSION@
+Homepage: https://github.com/trucomanx/dia-simplemusic
+Vcs-browser: https://github.com/trucomanx/dia-simplemusic
+Vcs-Git: https://github.com/trucomanx/dia-simplemusic.git
+Depends: dia
+Description: @APPSUMMARY@
+ @APPDESCRIPTION@
