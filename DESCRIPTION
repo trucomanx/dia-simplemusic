@@ -3,8 +3,8 @@ Version: 0.0.1
 Date: 2018-01-02
 Author: Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>
 Maintainer: Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>
-Title: Dia Shapes - 10 holes Ocarina with music notation
-Description: Dia shapes para ocarina de 10 agujeros con notación musical.
+Title: Dia Shapes - simple music notation
+Description: Dia shapes para una notacion musical simple.
 Categories: ocarina, tabs
 Url: https://savannah.nongnu.org/users/trucomanx
 Depends: null

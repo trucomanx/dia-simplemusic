@@ -1,4 +1,4 @@
-# Dia-Shapes para tabs de ocarina de 6 agujeros
+# Dia-Shapes para una notacion musical simple
 
 ## Cria/compila os shapes
 Cria os arquivos *.shape e *.png. 
@@ -27,12 +27,12 @@ A desinstalação é feita no diretório `~/.dia`.
 	make run
 
 ## Criar um arquivo comprimido do projeto
-Cria um arquivo em `dist/gafieira-notation-VERSION.tar.gz` onde `VERSION` é a versão atual do projeto.
+Cria um arquivo em `dist/dia-simplemusic-VERSION.tar.gz` onde `VERSION` é a versão atual do projeto.
 
 	make dist
 
 ## Criar um arquivo deb do projeto
-Cria um arquivo em `deb/gafieira-notation-VERSION_all.deb` onde `VERSION` é a versão atual do projeto.
+Cria um arquivo em `deb/dia-simplemusic-VERSION_all.deb` onde `VERSION` é a versão atual do projeto.
 
 	make deb
 
