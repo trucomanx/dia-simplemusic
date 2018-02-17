@@ -56,6 +56,8 @@ rm -f -r "${INSTALLPATH}"
 if [ -f "$DEBFILENAME" ]
 then
     echo "Package $DEBFILENAME created!!!........[OK]"
+    echo ""
+    echo "sudo dpkg -i $DEBFILENAME"
 ####    gksudo  --message "Package $DEBFILENAME created!!!Dou you like install de package? If yes, enter the password" \
 ####            dpkg -i $DEBFILENAME
 else
